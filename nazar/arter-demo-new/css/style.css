@@ -1,0 +1,10 @@
+.batch {
+    position: absolute;
+    top: 5px;
+    z-index: 20000;
+    right: 16px;
+    background: black;
+    color: #ffc107;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
